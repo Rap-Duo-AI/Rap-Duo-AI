@@ -1,4 +1,4 @@
-# Rap Duo AI – AI Rap Video Generator from Photos
+# [**Rap Duo AI – AI Rap Video Generator from Photos**](https://rapduoai.org/) 
 
 <p align="center">
   <a href="https://rapduoai.org/">
