@@ -208,7 +208,7 @@ Prices are listed in USD and reflect the published catalog checked on **October 
 
 ### How the free preview works
 
-A first preview is available only when the creator's eligibility checks pass. Google sign-in, supported region and referral source, first-use limits, eligible Mini settings and the available daily budget all affect availability. A new account alone does not guarantee a free video.
+Some users may qualify for a free preview. Availability is shown in the creator.
 
 An eligible preview is **480p, watermarked, and limited to the first 5 seconds or half the video, whichever is shorter**. Unlocking with credits opens the same complete original for playback and download without our preview watermark. A paid generation already includes the full video and requires no second unlock.
 
@@ -285,7 +285,7 @@ Yes, after the work has been submitted and saved. Sign in to the same account an
 
 ### Is Rap Duo AI free?
 
-There is no unrestricted free plan. Some first-use requests qualify for a limited, watermarked preview under the current eligibility rules. Other requests use credits, available through one-time packs or subscriptions. Check the creator for your actual eligibility.
+Some users may qualify for a free preview. Availability is shown in the creator.
 
 ### Does unlocking create a different video?
 
